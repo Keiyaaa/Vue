@@ -25,3 +25,5 @@ npm run dev
 ```
 
 https://reffect.co.jp/vue/vue-js-components/
+
+https://asameshicode.com/vue3-vuetify/
